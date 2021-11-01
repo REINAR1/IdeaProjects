@@ -1,0 +1,68 @@
+<component name="libraryTable">
+  <library name="Типы данных и математические операции в Java" type="groovy-library">
+    <properties version="4.0.0-beta-1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-astbuilder-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-datetime-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-cli-commons-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-ant-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-cli-picocli-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-contracts-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-dateutil-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-console-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-jsr223-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-macro-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-macro-library-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-json-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-docgenerator-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-nio-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-groovydoc-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-servlet-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-templates-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-test-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-testng-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-toml-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-sql-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-typecheckers-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-jmx-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-test-junit5-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-xml-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-ginq-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-groovysh-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-swing-4.0.0-beta-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-ant-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-astbuilder-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-cli-commons-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-cli-picocli-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-console-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-contracts-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-datetime-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-dateutil-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-docgenerator-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-jmx-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-ginq-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-groovydoc-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-json-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-groovysh-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-jsr223-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-macro-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-macro-library-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-nio-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-servlet-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-sql-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-templates-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-swing-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-test-junit5-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-testng-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-test-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-toml-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-typecheckers-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-xml-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Games/groovy-4.0.0-beta-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
